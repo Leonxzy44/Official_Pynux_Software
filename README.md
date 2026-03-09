@@ -1,1 +1,1 @@
-<p align="center"> **Pynux Software** </p>
+<h1 align="center"> Pynux Software </p>
